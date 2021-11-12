@@ -1,0 +1,18 @@
+Struttura dati -- Una struttura di controllo è  un insieme di istruzioni che controllano il flusso di codice.
+
+lista -- Le Liste sono un tipo di dato che contiene al suo interno un insieme di dati uguali o diversi tra di loro, ordinati in base ad un indice proprio della Lista.
+
+list comprehension[] -- è un metodo che ci permette di creare liste in modo chiaro e conciso.
+
+Tupla -- la tupla è una struttura di dati ed è simile a un array che viene utilizzato per memorizzare più dati contemporaneamente.
+
+Set -- i Set sono variabili vettore che includono un insieme di elementi non ordinati e non duplicati.
+
+Dizionario -- sono dei contenitori mutabili che ci consentono di associare velocemente voci dette chiavi a dei valori
+
+Funzioni -- Le funzioni sono uno strumento che ci permette di raggruppare un insieme di istruzioni che eseguono un compito specifico. Le funzioni 
+            accettano in input 0 o più argomenti (o parametri), li elaborano, e restituiscono in output un risultato.
+            
+Parametri formali -- I parametri formali sono le variabili che trovo nella definizione della funzione. Ad esempio -- def funzione(a, b, c) 
+
+Parametri attuali -- I parametri attuali sono le variabili passate in input al momento della chiamata alla funzione. Ad esempio -- print(funzione(x, y, z))
