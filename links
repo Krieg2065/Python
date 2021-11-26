@@ -1,0 +1,4 @@
+Link comppas
+mongodb+srv://Mohamedismail:<password>@cluster0.upmw7.mongodb.net/test
+Link
+mongodb://Mohamedismail:<password>@cluster0-shard-00-00.upmw7.mongodb.net:27017,cluster0-shard-00-01.upmw7.mongodb.net:27017,cluster0-shard-00-02.upmw7.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-9xh8wp-shard-0&authSource=admin&retryWrites=true&w=majority
